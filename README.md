@@ -12,6 +12,7 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/athena-chiarello-aa9774244/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     <a href="https://github.com/athena-codes/">
  <img src="https://komarev.com/ghpvc/?username=athena-codes&color=blueviolet&style=for-the-badge" alt="LinkedIn Badge"/>
   </div>
 
