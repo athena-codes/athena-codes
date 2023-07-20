@@ -26,7 +26,7 @@
 
 - :zap: In my free time, I love to solve problems on LeetCode, play video games and spend time with my kitty 
 
-- :mailbox:How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-athena-chiarello?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-athena-chiarello?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/athena-chiarello-aa9774244/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
