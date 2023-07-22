@@ -41,6 +41,11 @@
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athena-codes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+   <img src="https://github-readme-stats.vercel.app/api?username=athena-codes&show_icons=true&bg_color=00000000&theme=synthwave" alt="Athena's GitHub Stats" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=athena-codes&layout=compact&theme=vision-friendly-dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athena-codes&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  </a>
 
-![Athena's GitHub stats](https://github-readme-stats.vercel.app/api?username=athena-codes&show_icons=true&bg_color=00000000&theme=synthwave)
+ 
+</div>
