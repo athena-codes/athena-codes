@@ -41,10 +41,11 @@
 ---
 
 ### :fire: My Stats :
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; margin: 10vh;">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=athena-codes&show_icons=true&bg_color=00000000&theme=synthwave" alt="Athena's GitHub Stats" />
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=athena-codes&layout=compact&theme=vision-friendly-dark" style="margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athena-codes&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
   </a>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=athena-codes&show_icons=true&bg_color=00000000&theme=synthwave" alt="Athena's GitHub Stats" />
 </div>
