@@ -25,7 +25,7 @@
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-athena-chiarello?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/athena-chiarello-aa9774244/)
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="60" height="60"/>&nbsp;
@@ -40,7 +40,7 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats 
 <div style="display: flex; justify-content: space-between; align-items: center; margin: 10vh;">
   
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=athena-codes&layout=compact&theme=vision-friendly-dark" style="margin-right: 10px;">
