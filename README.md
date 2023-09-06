@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center" style="margin: 1in">
-  welcome to Athena's github page width="30px"/>
+  welcome to Athena's github page! />
 </h1>
 
 <div align="center" style="margin: 1in">
