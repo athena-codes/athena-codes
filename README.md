@@ -22,7 +22,7 @@
 - :telescope: Looking to contribute to full-stack web application development.
 - :seedling: Sharpening my skills in Python and Javasript.
 - :zap: In my free time I enjoy doing yoga 🧘🏼‍♀️, playing video games 🎮 and spending time with my kitty 🐱
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-athena-chiarello?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/athena-chiarello-aa9774244/)
+- :mailbox: How to reach me: athenarose964@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-athena-chiarello?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/athena-chiarello-aa9774244/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools 
