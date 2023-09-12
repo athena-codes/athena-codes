@@ -20,8 +20,8 @@
 ### :woman_technologist: About Me 
 -  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer from Boston, MA.
 - :telescope: Looking to contribute to full-stack web application development.
-- :seedling: Sharpening my skills in Python, Javascript and Typescript.
-- :zap: In my free time I love to solve problems on LeetCode, play video games, and spend time with my kitty.
+- :seedling: Sharpening my skills in Python and Javasript.
+- :zap: In my free time I enjoy doing yoga 🧘🏼‍♀️, playing video games 🎮 and spending time with my kitty 🐱
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-athena-chiarello?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/athena-chiarello-aa9774244/)
 ---
 
