@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG8zdXh6ejkwZnJ2amtpOGMxaG12ejlha2tsdXpzd2hwMGViN2xpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
 </div>
 
-<h1 align="center" style="margin: 1in">
+<h1 align="center" style="margin:1in">
   welcome to my github profile!
 </h1>
 
@@ -21,7 +21,7 @@
 -  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer from Boston, MA.
 - :telescope: Looking to contribute to full-stack web application development.
 - :seedling: Sharpening my skills in Python and Javasript.
-- :zap: In my free time I enjoy doing yoga 🧘🏼‍♀️, playing video games 🎮 and spending time with my kitty 🐱
+- :zap: In my free time I enjoy studying data structures🧮, playing video games 🎮 and spending time with my kitty 🐱
 - :mailbox: How to reach me: athenarose964@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-athena-chiarello?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/athena-chiarello-aa9774244/)
 ---
 
