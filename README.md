@@ -18,7 +18,7 @@
 ---
 
 ### :woman_technologist: About Me 
--  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer from Boston, MA.
+-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer located in Boston, MA.
 - :telescope: Looking to contribute to full-stack web application development.
 - :seedling: Sharpening my skills in Python and Javasript.
 - :zap: In my free time I enjoy studying data structures🧮, playing video games 🎮 and spending time with my kitty 🐱
