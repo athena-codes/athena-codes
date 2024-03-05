@@ -21,7 +21,6 @@
 -  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer located in Boston, MA.
 - :telescope: Looking to contribute to full-stack web application development.
 - :seedling: Sharpening my skills in Python and Javasript.
-- :zap: In my free time I enjoy studying data structures🧮, playing video games 🎮 and spending time with my kitty 🐱
 - :mailbox: How to reach me: athenarose964@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-athena-chiarello?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/athena-chiarello-aa9774244/)
 ---
 
