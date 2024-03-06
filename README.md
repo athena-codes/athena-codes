@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center" style="margin:1in">
-  welcome to my github profile
+  welcome to my github profile!
 </h1>
 
 <div align="center" style="margin: 1in">
