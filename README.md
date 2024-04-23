@@ -63,7 +63,7 @@ Welcome & thanks for stopping by! 😎
 ---
 
 ### :fire: My Stats
-<div style="display: flex; justify-content: space-between; align-items: center; margin: 10vh;">
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; margin: 10vh; padding: 20px;">
   
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=athena-codes&layout=compact&theme=vision-friendly-dark" style="margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athena-codes&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
