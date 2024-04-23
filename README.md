@@ -8,13 +8,13 @@
 </div>
 
 <div align="center" style="margin: 2in">
-Thanks & welcome for stopping by! My name is Athena, dedicated software engineer from Boston, MA. As a recent alumni to App Academy, I am skilled in front-end design, backend development, and data management. I love solving complex challenges using JavaScript and Python. Check out Tech Stack section for more insight into my vast skillset! Looking to connect and code with fellow developers interested in the same😎
+Welcome & thanks for stopping by! My name is Athena and I'm a dedicated software engineer from Boston, MA looking to connect and code with fellow developers interested in the same. 😎  Keep reading for more insight into my vast skillet!
 </div>
 
 
 ### :woman_technologist: Get to Know Me! 
--  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Full Stack Developer located in Boston, MA.
-- Avid gamer 🎮 and kitty🐱 mother, both are passions that fuel my imagination and creativity!
+-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Full Stack Developer based in Boston, alumnni to App Academy.
+- 🎮 Just a girl with a passion for gaming, coding and being a kitty🐱 mother! 
 - :telescope: Meticulously designed and over saw delivery of over three sophisticated full stack web applications.
 - :seedling: Currently honing my expertise in cutting-edge domains such as Python Automation, API development, and cloud computing solutions.
 
