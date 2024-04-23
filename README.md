@@ -20,12 +20,13 @@
 </div>
 Thanks & welcome for stopping by! I am Athena, dedicated software engineer from Boston, MA. As a recent alumni to App Academy, I am skilled in front-end design, backend development, and data management. I love solving complex challenges using JavaScript, Python, and AWS. Looking to connect and code with fellow developers interested in the same😎
 
-:mailbox: Reach me at athenarose964@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-athena-chiarello?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/athena-chiarello-aa9774244/)
 
 ### :woman_technologist: Get to Know Me! 
 -  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer located in Boston, MA.
-- :telescope: I have designed and coded over 3 full stack applications
-- :seedling: Currently sharpening my skills in Python Automation, API's and cloud computing.
+- :telescope: Meticulously designed and over saw delivery of over three sophisticated full stack web applications
+- :seedling: Currently honing my expertise in cutting-edge domains such as Python Automation, API development, and cloud computing solutions
+
+  :mailbox: Reach me at athenarose964@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-athena-chiarello?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/athena-chiarello-aa9774244/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools 
