@@ -7,10 +7,16 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG8zdXh6ejkwZnJ2amtpOGMxaG12ejlha2tsdXpzd2hwMGViN2xpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
 </div>
 
+<div align="center" style="margin: 2in">
+Thanks & welcome for stopping by! My name is Athena, dedicated software engineer from Boston, MA. As a recent alumni to App Academy, I am skilled in front-end design, backend development, and data management. I love solving complex challenges using JavaScript and Python. Check out Tech Stack section for more insight into my vast skillset! Looking to connect and code with fellow developers interested in the same😎
+</div>
 
-Thanks & welcome for stopping by! My name is Athena, dedicated software engineer from Boston, MA. As a recent alumni to App Academy, I am skilled in front-end design, backend development, and data management. I love solving complex challenges using JavaScript, Python, and AWS. Looking to connect and code with fellow developers interested in the same😎
 
-
+### :woman_technologist: Get to Know Me! 
+-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Full Stack Developer located in Boston, MA.
+- Avid gamer 🎮 and kitty🐱 mother, both are passions that fuel my imagination and creativity!
+- :telescope: Meticulously designed and over saw delivery of over three sophisticated full stack web applications.
+- :seedling: Currently honing my expertise in cutting-edge domains such as Python Automation, API development, and cloud computing solutions.
 
 <div align="center" style="margin: 1in">
   <a href="https://www.linkedin.com/in/athena-chiarello-aa9774244/">
@@ -21,16 +27,15 @@ Thanks & welcome for stopping by! My name is Athena, dedicated software engineer
   </a>
 </div>
 
-
-### :woman_technologist: Get to Know Me! 
--  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer located in Boston, MA.
-- :telescope: Meticulously designed and over saw delivery of over three sophisticated full stack web applications
-- :seedling: Currently honing my expertise in cutting-edge domains such as Python Automation, API development, and cloud computing solutions
-
-  :mailbox: Reach me at athenarose964@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-athena-chiarello?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/athena-chiarello-aa9774244/)
 ---
 
-### :hammer_and_wrench: Languages and Tools 
+### 🛠️ Tech Stack
+
+- Languages: JavaScript (with expertise in React and Node.js), Python (primarily with Flask), HTML5, and CSS.
+- Frameworks/Libraries: Well-versed in utilizing Redux for state management and Express for building scalable server-side applications. Additionally, skilled in working with Sequelize for database management.
+- Databases: Experience with PostgreSQL, SQLite3, and MongoDB, ensuring efficient data storage and retrieval mechanisms.
+- Tools/Technologies: Versatile in employing Docker for containerization, Git for version control, and harnessing the power of AWS services such as S3 for seamless cloud storage solutions. Additionally, adept at crafting and consuming RESTful APIs to facilitate smooth communication between applications.
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="60" height="60"/>&nbsp;
