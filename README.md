@@ -1,19 +1,19 @@
+<div align="center" style="margin: 1in">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG8zdXh6ejkwZnJ2amtpOGMxaG12ejlha2tsdXpzd2hwMGViN2xpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
+</div>
 
 <h1 align="center" style="margin:1in">
   Hey there, fellow developer! 🌟
 </h1>
 
-<div align="center" style="margin: 1in">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG8zdXh6ejkwZnJ2amtpOGMxaG12ejlha2tsdXpzd2hwMGViN2xpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
-</div>
 
 <div align="center" style="margin: 2in">
-Welcome & thanks for stopping by! My name is Athena and I'm a dedicated software engineer from Boston, MA looking to connect and code with fellow developers interested in the same. 😎  Keep reading for more insight into my vast skillet!
+Welcome & thanks for stopping by! 😎 
 </div>
 
 
-### :woman_technologist: Get to Know Me! 
--  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Full Stack Developer based in Boston, alumnni to App Academy.
+### :woman_technologist: Get to Know Athena: 
+-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Full Stack Developer based in Boston, alumnni to App Academy.
 - 🎮 Just a girl with a passion for gaming, coding and being a kitty🐱 mother! 
 - :telescope: Meticulously designed and over saw delivery of over three sophisticated full stack web applications.
 - :seedling: Currently honing my expertise in cutting-edge domains such as Python Automation, API development, and cloud computing solutions.
@@ -21,6 +21,9 @@ Welcome & thanks for stopping by! My name is Athena and I'm a dedicated software
 <div align="center" style="margin: 1in">
   <a href="https://www.linkedin.com/in/athena-chiarello-aa9774244/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="https://wakatime.com/dashboard">
+    <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" alt="Wakatime Badge"/>
   </a>
   <a href="https://github.com/athena-codes/">
     <img src="https://komarev.com/ghpvc/?username=athena-codes&color=blueviolet&style=for-the-badge" alt="Profile Views Badge"/>
