@@ -4,6 +4,15 @@
 </h1>
 
 <div align="center" style="margin: 1in">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG8zdXh6ejkwZnJ2amtpOGMxaG12ejlha2tsdXpzd2hwMGViN2xpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
+</div>
+
+
+Thanks & welcome for stopping by! My name is Athena, dedicated software engineer from Boston, MA. As a recent alumni to App Academy, I am skilled in front-end design, backend development, and data management. I love solving complex challenges using JavaScript, Python, and AWS. Looking to connect and code with fellow developers interested in the same😎
+
+
+
+<div align="center" style="margin: 1in">
   <a href="https://www.linkedin.com/in/athena-chiarello-aa9774244/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,14 +20,6 @@
     <img src="https://komarev.com/ghpvc/?username=athena-codes&color=blueviolet&style=for-the-badge" alt="Profile Views Badge"/>
   </a>
 </div>
-
-
-
-
-<div align="center" style="margin: 1in">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG8zdXh6ejkwZnJ2amtpOGMxaG12ejlha2tsdXpzd2hwMGViN2xpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
-</div>
-Thanks & welcome for stopping by! I am Athena, dedicated software engineer from Boston, MA. As a recent alumni to App Academy, I am skilled in front-end design, backend development, and data management. I love solving complex challenges using JavaScript, Python, and AWS. Looking to connect and code with fellow developers interested in the same😎
 
 
 ### :woman_technologist: Get to Know Me! 
