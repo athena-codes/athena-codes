@@ -68,5 +68,12 @@ Welcome & thanks for stopping by! 😎
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=athena-codes&layout=compact&theme=vision-friendly-dark" style="margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athena-codes&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
   </a>
-
+ <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=athena-codes&theme=vision-friendly-dark&border=61dafb&hide_border=true" alt="athena-codes" />
+    </a>
+    <a href="https://github.com/athena-codes/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=athena-codes&show_icons=true&theme=vision-friendly-dark&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
 </div>
