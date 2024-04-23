@@ -21,6 +21,7 @@ Welcome & thanks for stopping by! 😎
 <div align="center" style="margin: 1in">
 
 
+
    <a href="[https://www.linkedin.com/in/athena-chiarello-aa9774244/](https://athena-codes.github.io/portfolio/#resume)">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
   </a>
@@ -32,6 +33,9 @@ Welcome & thanks for stopping by! 😎
   </a>
   <a href="https://github.com/athena-codes/">
     <img src="https://komarev.com/ghpvc/?username=athena-codes&color=blueviolet&style=for-the-badge" alt="Profile Views Badge"/>
+  </a>
+    <a href="https://leetcode.com/athenarose964/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
   </a>
 </div>
 
