@@ -1,9 +1,6 @@
-<div align="center" style="margin: 1in">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG8zdXh6ejkwZnJ2amtpOGMxaG12ejlha2tsdXpzd2hwMGViN2xpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
-</div>
 
 <h1 align="center" style="margin:1in">
-  welcome to my github profile!
+  Hey there, fellow developer! 🌟
 </h1>
 
 <div align="center" style="margin: 1in">
@@ -15,12 +12,18 @@
   </a>
 </div>
 
----
 
-### :woman_technologist: About Me 
+
+
+<div align="center" style="margin: 1in">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG8zdXh6ejkwZnJ2amtpOGMxaG12ejlha2tsdXpzd2hwMGViN2xpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
+</div>
+Thanks & welcome for stopping by! I am Athena, dedicated software engineer from Boston, MA. As a recent alumni to App Academy, I am skilled in front-end design, backend development, and data management. I love solving complex challenges using JavaScript, Python, and AWS. Looking to connect and code with fellow developers interested in the same😎
+
+### :woman_technologist: Get to Know Me! 
 -  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer located in Boston, MA.
-- :telescope: Looking to contribute to full-stack web application development.
-- :seedling: Sharpening my skills in Python and Javasript.
+- :telescope: I have designed and coded over 3 full stack applications
+- :seedling: Currently sharpening my skills in Python Automation, API's 
 - :mailbox: How to reach me: athenarose964@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-athena-chiarello?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/athena-chiarello-aa9774244/)
 ---
 
