@@ -19,6 +19,11 @@ Welcome & thanks for stopping by! 😎
 - :seedling: Currently honing my expertise in cutting-edge domains such as Python Automation, API development, and cloud computing solutions.
 
 <div align="center" style="margin: 1in">
+
+
+   <a href="[https://www.linkedin.com/in/athena-chiarello-aa9774244/](https://athena-codes.github.io/portfolio/#resume)">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/athena-chiarello-aa9774244/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
