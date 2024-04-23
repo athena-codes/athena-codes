@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center" style="margin:1in">
-  Hey there, fellow developer! 🌟
+  Hey there, fellow developer 🌟
 </h1>
 
 
@@ -31,11 +31,11 @@ Welcome & thanks for stopping by! 😎
     <a href="https://wakatime.com/dashboard">
     <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" alt="Wakatime Badge"/>
   </a>
+   <a href="https://leetcode.com/athenarose964/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
+  </a>
   <a href="https://github.com/athena-codes/">
     <img src="https://komarev.com/ghpvc/?username=athena-codes&color=blueviolet&style=for-the-badge" alt="Profile Views Badge"/>
-  </a>
-    <a href="https://leetcode.com/athenarose964/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
   </a>
 </div>
 
