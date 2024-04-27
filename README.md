@@ -39,6 +39,8 @@ Welcome & thanks for stopping by! 😎
   </a>
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/018e7cc7-d5c4-4bd8-9847-ebfb005ae772.svg)](https://wakatime.com/@018e7cc7-d5c4-4bd8-9847-ebfb005ae772)
+
 ---
 
 ### 🛠️ Tech Stack
