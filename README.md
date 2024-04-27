@@ -28,7 +28,7 @@ Welcome & thanks for stopping by! 😎
   <a href="https://www.linkedin.com/in/athena-chiarello-aa9774244/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://wakatime.com/dashboard">
+    <a href="https://wakatime.com/@018e7cc7-d5c4-4bd8-9847-ebfb005ae77">
     <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" alt="Wakatime Badge"/>
   </a>
    <a href="https://leetcode.com/athenarose964/">
