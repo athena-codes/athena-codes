@@ -22,7 +22,7 @@ Welcome & thanks for stopping by! 😎
 
 
 
-   <a href="https://athena-codes.github.io/portfolio/#resume">
+   <a href="https://athena-codes.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/athena-chiarello-aa9774244/">
