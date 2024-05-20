@@ -8,7 +8,7 @@
 
 
 <div align="center" style="margin: 2in">
-Welcome & thanks for stopping by! 😎 
+Welcome & thanks for stopping by! 
 </div>
 
 
