@@ -7,9 +7,7 @@
 </h1>
 
 
-<div align="center" style="margin: 2in">
-Welcome & thanks for stopping by! 
-</div>
+
 
 
 ### :woman_technologist: Get to Know Athena: 
