@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center" style="margin:1in">
-  Hey there, fellow developer 🌟
+  Hey there, fellow developer! 🌟
 </h1>
 
 
