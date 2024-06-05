@@ -13,7 +13,7 @@
 ### :woman_technologist: Get to Know Me: 
 -  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Full Stack Developer based in Boston, alumnni to App Academy.
 - 🎮 Just a girl with a passion for gaming, coding and being a kitty🐱 mother! 
-- :telescope: Meticulously designed and over saw delivery of over three sophisticated full stack web applications.
+- :telescope: Meticulously designed and over saw delivery of over three sophisticated full stack web applications!
 - :seedling: Currently honing my expertise in cutting-edge domains such as Python Automation, API development, and cloud computing solutions.
 
 <div align="center" style="margin: 1in">
