@@ -3,14 +3,14 @@
 </div>
 
 <h1 align="center" style="margin:1in">
-  Hey there, fellow developer! 🌟
+  Hi there, fellow developer! 🌟
 </h1>
 
 
 
 
 
-### :woman_technologist: Get to Know Me: 
+### :woman_technologist: Get to Know Athena: 
 -  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Full Stack Developer based in Boston, alumnni to App Academy.
 - 🎮 Just a girl with a passion for coding, gaming and being a kitty🐱 mother! 
 - :telescope: Meticulously designed and over saw delivery of over three sophisticated full stack web applications!
