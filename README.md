@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center" style="margin:1in">
-  Welcome fellow developer! 👾
+  Hello There! 👾
 </h1>
 
 
